@@ -9,4 +9,4 @@ The user of our application enters the applicant's instagram handle, and the top
 
 Using The Application
 
-Enter the applicant's handle, and a collage is returned. In our implementation, we could not yet get images to load and display, but the top hashtags are correctly aggrigated.
+Enter the applicant's handle, and a collage is returned. In our implementation, we could not yet get images to load and display, but the top hashtags are correctly aggregated.
